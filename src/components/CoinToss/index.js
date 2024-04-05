@@ -41,7 +41,7 @@ class CoinToss extends Component {
     return (
       <div className="app-container">
         <div className="coin-toss-container">
-          <h1 className="heading">Coins Toss Game</h1>
+          <h1 className="heading">Coin Toss Game</h1>
           <p className="description">Heads (or) Tails</p>
           <img
             src={tossResultImage}
